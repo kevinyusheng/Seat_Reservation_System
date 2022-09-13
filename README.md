@@ -4,7 +4,7 @@ The seat reservation system simulate the Taiwan High Speed Ray booking system.
 ##User interface
 
 <p align="center">
-  <img src="/Seat_Reservation_System/blob/main/png/user.png" width="400"/>
+  <img src="./user.png" width="400"/>
 </p>
 
 ##Booking interface
