@@ -13,13 +13,13 @@ The seat reservation system simulate the Taiwan High Speed Ray booking system.
   <img src="./png/1.png" width="400"/>
 </p>
 <p align="center">
-  <img src="./png/2.png" width="400"/>
+  <img src="./png/2.png" width="600"/>
 </p>
 <p align="center">
-  <img src="./png/3.png" width="400"/>
+  <img src="./png/3.png" width="600"/>
 </p>
 <p align="center">
-  <img src="./png/4.png" width="400"/>
+  <img src="./png/4.png" width="600"/>
 </p>
 <p align="center">
   <img src="./png/5.png" width="400"/>
